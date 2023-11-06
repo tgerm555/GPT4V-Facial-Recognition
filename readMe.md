@@ -9,6 +9,9 @@ Instructions on how to install this project and start running it.
 git clone https://github.com/tgerm555/GPT4V-Facial-Recognition.git
 ```
 
+### Add training images to the 'training_images' directory. 
+Make sure these are jpg or jpeg images
+
 ### Run the code with the following command
 ```bash
 pip install -r requirements.txt
